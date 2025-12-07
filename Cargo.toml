@@ -1,0 +1,25 @@
+[package]
+name = "aoc"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+proconio = { version = "=0.5.0", features = ["derive"] }
+superslice = "=1.0.0"
+itertools = "=0.14.0"
+
+[[bin]]
+name = "2025_6_1"
+path = "src/bin/2025_6_1.rs"
+
+[[bin]]
+name = "2025_6_2"
+path = "src/bin/2025_6_2.rs"
+
+[[bin]]
+name = "2025_7_1"
+path = "src/bin/2025_7_1.rs"
+
+[[bin]]
+name = "2025_7_2"
+path = "src/bin/2025_7_2.rs"
