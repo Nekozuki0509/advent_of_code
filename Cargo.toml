@@ -21,6 +21,22 @@ name = "2025_2_1"
 path = "src/bin/2025_2_1.rs"
 
 [[bin]]
+name = "2025_3_1"
+path = "src/bin/2025_3_1.rs"
+
+[[bin]]
+name = "2025_3_2"
+path = "src/bin/2025_3_2.rs"
+
+[[bin]]
+name = "2025_4_1"
+path = "src/bin/2025_4_1.rs"
+
+[[bin]]
+name = "2025_4_2"
+path = "src/bin/2025_4_2.rs"
+
+[[bin]]
 name = "2025_6_1"
 path = "src/bin/2025_6_1.rs"
 
