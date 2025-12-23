@@ -146,3 +146,11 @@ path = "src/bin/2025_8_1.rs"
 [[bin]]
 name = "2025_8_2"
 path = "src/bin/2025_8_2.rs"
+
+[[bin]]
+name = "2025_9_1"
+path = "src/bin/2025_9_1.rs"
+
+[[bin]]
+name = "2025_9_2"
+path = "src/bin/2025_9_2.rs"
