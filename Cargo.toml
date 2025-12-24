@@ -90,76 +90,84 @@ good_lp = { version = "1.14.2", features = ["coin_cbc"], default-features = fals
 
 [[bin]]
 name = "2025_1_1"
-path = "src/bin/2025_1_1.rs"
+path = "2025/src/1_1.rs"
 
 [[bin]]
 name = "2025_1_2"
-path = "src/bin/2025_1_2.rs"
+path = "2025/src/1_2.rs"
 
 [[bin]]
 name = "2025_2_1"
-path = "src/bin/2025_2_1.rs"
+path = "2025/src/2_1.rs"
 
 [[bin]]
 name = "2025_3_1"
-path = "src/bin/2025_3_1.rs"
+path = "2025/src/3_1.rs"
 
 [[bin]]
 name = "2025_3_2"
-path = "src/bin/2025_3_2.rs"
+path = "2025/src/3_2.rs"
 
 [[bin]]
 name = "2025_4_1"
-path = "src/bin/2025_4_1.rs"
+path = "2025/src/4_1.rs"
 
 [[bin]]
 name = "2025_4_2"
-path = "src/bin/2025_4_2.rs"
+path = "2025/src/4_2.rs"
 
 [[bin]]
 name = "2025_5_1"
-path = "src/bin/2025_5_1.rs"
+path = "2025/src/5_1.rs"
 
 [[bin]]
 name = "2025_5_2"
-path = "src/bin/2025_5_2.rs"
+path = "2025/src/5_2.rs"
 
 [[bin]]
 name = "2025_6_1"
-path = "src/bin/2025_6_1.rs"
+path = "2025/src/6_1.rs"
 
 [[bin]]
 name = "2025_6_2"
-path = "src/bin/2025_6_2.rs"
+path = "2025/src/6_2.rs"
 
 [[bin]]
 name = "2025_7_1"
-path = "src/bin/2025_7_1.rs"
+path = "2025/src/7_1.rs"
 
 [[bin]]
 name = "2025_7_2"
-path = "src/bin/2025_7_2.rs"
+path = "2025/src/7_2.rs"
 
 [[bin]]
 name = "2025_8_1"
-path = "src/bin/2025_8_1.rs"
+path = "2025/src/8_1.rs"
 
 [[bin]]
 name = "2025_8_2"
-path = "src/bin/2025_8_2.rs"
+path = "2025/src/8_2.rs"
 
 [[bin]]
 name = "2025_9_1"
-path = "src/bin/2025_9_1.rs"
+path = "2025/src/9_1.rs"
 
 [[bin]]
 name = "2025_9_2"
-path = "src/bin/2025_9_2.rs"
+path = "2025/src/9_2.rs"
 
 [[bin]]
 name = "2025_10_1"
-path = "src/bin/2025_10_1.rs"
+path = "2025/src/10_1.rs"
 
 [[bin]]
 name = "2025_10_2"
-path = "src/bin/2025_10_2.rs"
+path = "2025/src/10_2.rs"
+
+[[bin]]
+name = "2025_11_1"
+path = "2025/src/11_1.rs"
+
+[[bin]]
+name = "2025_11_2"
+path = "2025/src/11_2.rs"
